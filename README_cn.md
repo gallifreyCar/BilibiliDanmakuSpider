@@ -1,6 +1,6 @@
 # 哔哩哔哩弹幕爬虫
 
-[English]()|[Chinese]()
+[English](https://github.com/gallifreyCar/BilibiliBarrageSpider/edit/master/README.md)|[中文](https://github.com/gallifreyCar/BilibiliBarrageSpider/edit/master/README_cn.md)
 
 ## 概要
 
