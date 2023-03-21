@@ -1,6 +1,6 @@
 # Bilibili Barrage Spider
 
-[English](https://github.com/gallifreyCar/BilibiliBarrageSpider/blob/master/README.md)  | [中文](https://github.com/gallifreyCar/BilibiliBarrageSpider/blob/master/README.md)
+[English](https://github.com/gallifreyCar/BilibiliBarrageSpider/blob/master/README.md)  | [中文](https://github.com/gallifreyCar/BilibiliBarrageSpider/blob/master/README_cn.md)
 
 ## Overview
 
