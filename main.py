@@ -49,5 +49,5 @@ df = pd.DataFrame(
      '字体大小': font_size_list})
 df.to_excel('output.xlsx', index=False)
 
-# todo 转换成json乱码待处理
-# df.to_json('output.json')
+
+df.to_json('output.json', force_ascii=False)
