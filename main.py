@@ -47,7 +47,7 @@ import openpyxl
 df = pd.DataFrame(
     {'弹幕内容': barrage_list, '弹幕发送时间': timestamp_res, '弹幕在视频中出现时间': time_diff_res, '弹幕颜色': color_res,
      '字体大小': font_size_list})
-df.to_excel('output.xlsx', index=False)
+df.to_excel('./target/output.xlsx', index=False)
 
 
-df.to_json('output.json', force_ascii=False)
+df.to_json('./target/output.json', force_ascii=False)
