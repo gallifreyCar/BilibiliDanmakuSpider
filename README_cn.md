@@ -27,7 +27,7 @@
 
    ![image-20230322014044073](README_cn/image-20230322014044073.png)
 
-4. 运行程序，运行结果会保存到output.xlsx（excel格式）中
+4. 运行程序，运行结果会保存到`target/output.xlsx`（excel格式）和`target/output.json`(JSON 格式)当中
 
 ## 贡献
 

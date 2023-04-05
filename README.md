@@ -29,7 +29,7 @@ This project is a Python-based danmaku spider that is used to collect danmaku da
 
    ![image-20230322014044073](README_cn/image-20230322014044073.png)
 
-4. Run the program, and the result will be saved in `output.xlsx` (Excel format).
+4. Run the program, and the result will be saved in `target/output.xlsx` (Excel format) and `target/output.json`(JSON format)
 
 ## Contributing
 
